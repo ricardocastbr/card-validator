@@ -1,3 +1,7 @@
+Este projeto identifica a bandeira (Visa, MasterCard, Elo, etc.) de um cartão de crédito a partir do número digitado pelo usuário.
+
+
+
 # Validador de Bandeira de Cartão de Crédito
 
 Este projeto identifica a bandeira (Visa, MasterCard, Elo, etc.) de um cartão de crédito a partir do número digitado pelo usuário.
